@@ -3,13 +3,10 @@ Tasks for the GRIP Internship May 2021
 
 Data science internship at Spark Foundation
 
-TASK-1 Prediction using Supervised ML (Level - Beginner)
-
-# Predict the percentage of marks of an student based on the number of study hours
-
+# TASK-1 Prediction using Supervised ML (Level - Beginner)
 ![image](https://user-images.githubusercontent.com/66864461/118949280-af1b1800-b976-11eb-8929-e3696bd11a75.png)
 
-This Project will predict scores based on Student's Hours of study
+Predict the percentage of marks of an student based on the number of study hours
 
 Linear Regression
 
